@@ -56,6 +56,11 @@
             <version>3.3.2</version>
             <scope>test</scope>
         </dependency>
+				<dependency>
+					<groupId>com.madgag.spongycastle</groupId>
+					<artifactId>core</artifactId>
+					<version>1.51.0.0</version>
+				</dependency>
     </dependencies>
     <build>
         <plugins>

@@ -7,7 +7,7 @@ import net.java.otr4j.OtrEngineHost;
 import net.java.otr4j.OtrPolicy;
 
 import org.apache.commons.lang3.RandomStringUtils;
-import org.bouncycastle.util.encoders.Base64;
+import org.spongycastle.util.encoders.Base64;
 import org.junit.Assert;
 import org.junit.Test;
 import org.mockito.Mockito;
